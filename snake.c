@@ -1,3 +1,5 @@
+/* Controls: Up, Down, Left, and Right, P to pause, Q to quit */
+
 #include <unistd.h> 
 #include <ncurses.h>
 #include <stdlib.h>
