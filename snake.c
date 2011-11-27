@@ -1,4 +1,5 @@
-/* Controls: Up, Down, Left, and Right, P to pause, Q to quit */
+/* Compile with -lncurses
+ * Controls: Up, Down, Left, and Right, P to pause, Q to quit */
 
 #include <unistd.h> 
 #include <ncurses.h>
