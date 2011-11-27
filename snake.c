@@ -173,7 +173,6 @@ int main(int argc, const char *argv[]){
 				move(3,0);
 				printw("%s", field);
 				move(1,(fieldx/2) - 7); printw("Score: %d", length - 2);
-				//move(3,0); printw("%d,%d  \"%c\"", x, y, field[y][x]);
 				refresh();
 				break;
 			}
