@@ -1,0 +1,8 @@
+[package]
+name = "snake_rs"
+version = "0.1.0"
+authors = ["Tom Mason <wheybags@wheybags.com>"]
+
+[dependencies]
+termion = "1.5.1"
+rand = "0.3"
